@@ -2,10 +2,10 @@
 
 ![Logo resmi](https://github.com/molyeriim/BookArcProject/blob/master/Ba%C5%9Fl%C4%B1ks%C4%B1z.jpg?raw=true)
 ### Neden BookArcProject?
-Okurların okuduğu kitaplarla ilgili daha çok deftere tutulan, çoğu zaman düzensiz ve bilgileri aramanın da yazmanın da zahmetli olduğu bu yöntemin yerine daha kolay, sistematik bir çözüm getirmeyi istemek.
+Okurların okuduğu kitaplarla ilgili daha çok deftere tutulan, çoğu zaman düzensiz ve bilgileri aramanın da yazmanın da zahmetli olduğu bu yöntemin yerine daha kolay, sistematik bir alternatife ihtiyaç duyulması.
 <br><br>
 ### Projenin Amacı?
-Son kullanıcının okuduğu kitapla ilgili yorum, görüş ve altını çizdiği alıntıları; yer, mekan, zaman fark etmeksizin not alıp kendi kişisel kitap arşivini oluşturmasını kolaylaştırmak.
+Son kullanıcının okuduğu kitapla ilgili yorum, görüş ve altını çizdiği alıntıları; yer, mekan, zaman fark etmeksizin not alıp kendi kişisel kitap arşivini oluşturmasını kolaylaştırmak ve teşvik etmek.
 <br><br>
 **Özellikler** <br>
 1.Kullanıcı profil oluşturabilir.<br>
