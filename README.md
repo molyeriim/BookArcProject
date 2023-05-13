@@ -14,4 +14,7 @@ Son kullanıcının okuduğu kitapla ilgili yorum, görüş ve altını çizdiğ
 4.Kitaplar türlerine göre sınıflanırılıp en çok okunan türler listenebilir.<br>
 5.Okunacak kitap *'Okudum'* butonuna tıklanıldığında okunanlar listesine taşınabilir. <br>
 
-### Database Özellikleri
+### Database
+
+![Tables's screenshot](https://github.com/molyeriim/BookArcProject/blob/master/Tables.jpeg?raw=true)<br>
+`Proje için oluşturmuş olduğum veritabanının tabloları`
